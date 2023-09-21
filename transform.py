@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-output = []
+output = set()
 with open("input.tsv", "r", encoding="utf-8-sig") as input_file:
     for line in input_file.readlines()[1:]:
         [woord, lemma, group, remarks, freq] = line.split('\t')[0:5]
@@ -29,10 +29,8 @@ with open("input.tsv", "r", encoding="utf-8-sig") as input_file:
             graad = "diminutief"
         else:
             graad = "basis"
-        output.append((woord, lemma, ntype, getal, graad))
-
-output.sort()
+        output.add((woord, lemma, ntype, getal, graad))
 
 with open("output.tsv", "w", encoding="utf-8") as output_file:
-    for (woord, lemma, ntype, getal, graad) in output:
+    for (woord, lemma, ntype, getal, graad) in sorted(output):
         output_file.write(f"{woord}\t{lemma}\tN({ntype},{getal},{graad})\n")
