@@ -1,0 +1,34 @@
+# This CITATION.cff file was generated with cffinit.
+# Visit https://bit.ly/cffinit to generate yours today!
+
+cff-version: 1.2.0
+title: Dutch Plurals
+message: >-
+  If you use this dataset, please cite it using the metadata
+  from this file.
+type: dataset
+authors:
+  - given-names: Henk
+    family-names: Pander Maat
+    affiliation: Utrecht University
+    orcid: 'https://orcid.org/0000-0002-5515-4627'
+  - given-names: Sheean
+    family-names: Spoel
+    email: s.j.j.spoel@uu.nl
+    affiliation: Utrecht University
+    orcid: 'https://orcid.org/0000-0002-6802-4135'
+repository-code: >-
+  https://github.com/CentreForDigitalHumanities/dutch-plurals
+abstract: >-
+  A list of manually annotated/verified Dutch plural
+  singular/lemma combinations. This was done by Henk Pander
+  Maat and can be found under input.tsv. Using transform.py
+  this can be converted into output.tsv which is a file
+  which can be used as input for froggen.
+keywords:
+  - froggen
+  - Dutch
+  - plural
+  - singular
+  - morphology
+license: GPL-3.0-or-later
