@@ -14,4 +14,4 @@ The machine-readable Wiktionary data from [Tatu Ylonen](https://kaikki.org/dicti
 
 ## Considerations for Article Usage
 
-For uncapitalized words an article can often be easily determined by a native speaker. If there is none (for example for months) it is left blank. For capitalized words there is more room for ambiguity. Rivers, lakes, seas, mountains, deserts, inhabitants and languages have articles. Acronyms, cars and devices also generally have them. Countries, cities, regions and brand names generally do not.
+For uncapitalized words an article can often be easily determined by a native speaker. If there is none (for example for months) it is left blank. For capitalized words there is more room for ambiguity. Rivers, lakes, seas, mountains, deserts, inhabitants, streets, squares and languages have articles. Acronyms, cars and devices also generally have them. Countries, cities, regions and brand names generally do not.
