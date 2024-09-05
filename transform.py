@@ -19,6 +19,7 @@ with open("gender.tsv", "r", encoding="utf-8-sig") as gender_file:
 # The second can be both (a Dutch woman or Dutch as adjective)
 # The first form can also only be an adjective form e.g. for Amerikaans
 adjectives: Dict[str, Tuple[str, str]] = {}
+adjective_plurals: Dict[str, str] = {}
 adjectives_exempt = set()
 with open("adjectives.tsv", "r", encoding="utf-8-sig") as adjectives_file:
     for line in adjectives_file.readlines()[1:]:
@@ -197,7 +198,7 @@ try:
                     missing_adjectives.add(lemma)
                 # add the plural form if it exists
                 if getal == "mv":
-                    output.add((lemma, woord, "N", (ntype, "mv", graad)))
+                    adjective_plurals[lemma] = woord
             else:
                 add_noun(woord, lemma, ntype, getal, graad, genders)
 finally:
@@ -209,20 +210,28 @@ finally:
 
 # adjectives are done separately
 for with_e, (without, nominative) in adjectives.items():
+    try:
+        plural = adjective_plurals[with_e]
+    except KeyError:
+        plural = None
     if "E" not in nominative:
         output.add((without, with_e, "ADJ", ("prenom", "basis", "met-e", "stan")))
+        if plural:
+            output.add((without, plural, "ADJ", ("nom", "basis", "met-e", "mv-n")))
     if "Z" not in nominative:
         output.add((without, without, "ADJ", ("prenom", "basis", "zonder")))
 
     try:
-        if "e" in nominative:
+        if "e" in nominative.lower():
             ntype, getal, graad, genders = words[with_e]
             add_noun(with_e, with_e, ntype, getal, graad, genders)
+            if plural:
+                add_noun(plural, with_e, ntype, "mv", graad, genders)
     except KeyError:
         print(f"Missing {with_e} in input")
 
     try:
-        if "z" in nominative:
+        if "z" in nominative.lower():
             ntype, getal, graad, genders = words[without]
             add_noun(without, without, ntype, getal, graad, genders)
     except KeyError:

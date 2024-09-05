@@ -8706,8 +8706,8 @@ voorbereidingsfasen	voorbereidingsfase	fase		17057
 voorfasen	voorfase	fase		17058		
 waarschuwingsfasen	waarschuwingsfase	fase		17059		
 Manilleensen	Manilleense			78101		
-2-1-zeges	2-1-zege	zege	    	69178		
-PSC'en	PSC		  	80716		
+2-1-zeges	2-1-zege	zege		69178		
+PSC'en	PSC			80716		
 2-programma's	2-programma	2-programma		2		
 NPO2-programma's	NPO2-programma	2-programma		3		
 aalmoezeniers	aalmoezenier	aalmoezenier		4		
@@ -12032,7 +12032,7 @@ isolatiebanden	isolatieband	band		3512
 jazzbands	jazzband	band		3513		
 jongensbands	jongensband	band		3514		
 klapbanden	klapband	band		3515		
-klittenbanden	klittenband	band		3516		
+klittenbanden	klittenband			3516		
 kniebanden	knieband	band		3517		
 kousenbanden	kousenband	band		3518		
 kruisbanden	kruisband	band		3519		
@@ -12049,7 +12049,7 @@ meidenbands	meidenband	band		3529
 MHZ-banden	MHZ-band	band		3530		
 nekbanden	nekband	band		3531		
 netbanden	netband	band		3532		
-plakbanden	plakband	band		3533		
+plakbanden	plakband			3533		
 polsbanden	polsband	band		3534		
 punkbands	punkband	band		3535		
 radiaalbanden	radiaalband	band		3536		
@@ -32188,10 +32188,131 @@ positiejaponnen	positiejapon	japon		25612
 beroepsjargons	beroepsjargon	jargon		25613		
 jargons	jargon	jargon		25614		
 vakjargons	vakjargon	jargon		25615		
+0-jarigen	0-jarige	jarige		25616		
+1-jarigen	1-jarige	jarige		25616		
+2-jarigen	2-jarige	jarige		25616		
+3-jarigen	3-jarige	jarige		25616		
+4-jarigen	4-jarige	jarige		25616		
+5-jarigen	5-jarige	jarige		25616		
+6-jarigen	6-jarige	jarige		25616		
+7-jarigen	7-jarige	jarige		25616		
+8-jarigen	8-jarige	jarige		25616		
+9-jarigen	9-jarige	jarige		25616		
+10-jarigen	10-jarige	jarige		25616		
 11-jarigen	11-jarige	jarige		25616		
 12-jarigen	12-jarige	jarige		25617		
+13-jarigen	13-jarige	jarige		25618		
+14-jarigen	14-jarige	jarige		25618		
 15-jarigen	15-jarige	jarige		25618		
+16-jarigen	16-jarige	jarige		25619		
 17-jarigen	17-jarige	jarige		25619		
+18-jarigen	18-jarige	jarige		25619		
+19-jarigen	19-jarige	jarige		25619		
+20-jarigen	20-jarige	jarige		25619		
+21-jarigen	21-jarige	jarige		25619		
+22-jarigen	22-jarige	jarige		25619		
+23-jarigen	23-jarige	jarige		25619		
+24-jarigen	24-jarige	jarige		25619		
+25-jarigen	25-jarige	jarige		25619		
+26-jarigen	26-jarige	jarige		25619		
+27-jarigen	27-jarige	jarige		25619		
+28-jarigen	28-jarige	jarige		25619		
+29-jarigen	29-jarige	jarige		25619		
+30-jarigen	30-jarige	jarige		25619		
+31-jarigen	31-jarige	jarige		25619		
+32-jarigen	32-jarige	jarige		25619		
+33-jarigen	33-jarige	jarige		25619		
+34-jarigen	34-jarige	jarige		25619		
+35-jarigen	35-jarige	jarige		25619		
+36-jarigen	36-jarige	jarige		25619		
+37-jarigen	37-jarige	jarige		25619		
+38-jarigen	38-jarige	jarige		25619		
+39-jarigen	39-jarige	jarige		25619		
+40-jarigen	40-jarige	jarige		25619		
+41-jarigen	41-jarige	jarige		25619		
+42-jarigen	42-jarige	jarige		25619		
+43-jarigen	43-jarige	jarige		25619		
+44-jarigen	44-jarige	jarige		25619		
+45-jarigen	45-jarige	jarige		25619		
+46-jarigen	46-jarige	jarige		25619		
+47-jarigen	47-jarige	jarige		25619		
+48-jarigen	48-jarige	jarige		25619		
+49-jarigen	49-jarige	jarige		25619		
+50-jarigen	50-jarige	jarige		25619		
+51-jarigen	51-jarige	jarige		25619		
+52-jarigen	52-jarige	jarige		25619		
+53-jarigen	53-jarige	jarige		25619		
+54-jarigen	54-jarige	jarige		25619		
+55-jarigen	55-jarige	jarige		25619		
+56-jarigen	56-jarige	jarige		25619		
+57-jarigen	57-jarige	jarige		25619		
+58-jarigen	58-jarige	jarige		25619		
+59-jarigen	59-jarige	jarige		25619		
+60-jarigen	60-jarige	jarige		25619		
+61-jarigen	61-jarige	jarige		25619		
+62-jarigen	62-jarige	jarige		25619		
+63-jarigen	63-jarige	jarige		25619		
+64-jarigen	64-jarige	jarige		25619		
+65-jarigen	65-jarige	jarige		25619		
+66-jarigen	66-jarige	jarige		25619		
+67-jarigen	67-jarige	jarige		25619		
+68-jarigen	68-jarige	jarige		25619		
+69-jarigen	69-jarige	jarige		25619		
+70-jarigen	70-jarige	jarige		25619		
+71-jarigen	71-jarige	jarige		25619		
+72-jarigen	72-jarige	jarige		25619		
+73-jarigen	73-jarige	jarige		25619		
+74-jarigen	74-jarige	jarige		25619		
+75-jarigen	75-jarige	jarige		25619		
+76-jarigen	76-jarige	jarige		25619		
+77-jarigen	77-jarige	jarige		25619		
+78-jarigen	78-jarige	jarige		25619		
+79-jarigen	79-jarige	jarige		25619		
+80-jarigen	80-jarige	jarige		25619		
+81-jarigen	81-jarige	jarige		25619		
+82-jarigen	82-jarige	jarige		25619		
+83-jarigen	83-jarige	jarige		25619		
+84-jarigen	84-jarige	jarige		25619		
+85-jarigen	85-jarige	jarige		25619		
+86-jarigen	86-jarige	jarige		25619		
+87-jarigen	87-jarige	jarige		25619		
+88-jarigen	88-jarige	jarige		25619		
+89-jarigen	89-jarige	jarige		25619		
+90-jarigen	90-jarige	jarige		25619		
+91-jarigen	91-jarige	jarige		25619		
+92-jarigen	92-jarige	jarige		25619		
+93-jarigen	93-jarige	jarige		25619		
+94-jarigen	94-jarige	jarige		25619		
+95-jarigen	95-jarige	jarige		25619		
+96-jarigen	96-jarige	jarige		25619		
+97-jarigen	97-jarige	jarige		25619		
+98-jarigen	98-jarige	jarige		25619		
+99-jarigen	99-jarige	jarige		25619		
+100-jarigen	100-jarige	jarige		25619		
+101-jarigen	101-jarige	jarige		25619		
+102-jarigen	102-jarige	jarige		25619		
+103-jarigen	103-jarige	jarige		25619		
+104-jarigen	104-jarige	jarige		25619		
+105-jarigen	105-jarige	jarige		25619		
+106-jarigen	106-jarige	jarige		25619		
+107-jarigen	107-jarige	jarige		25619		
+108-jarigen	108-jarige	jarige		25619		
+109-jarigen	109-jarige	jarige		25619		
+110-jarigen	110-jarige	jarige		25619		
+111-jarigen	111-jarige	jarige		25619		
+112-jarigen	112-jarige	jarige		25619		
+113-jarigen	113-jarige	jarige		25619		
+114-jarigen	114-jarige	jarige		25619		
+115-jarigen	115-jarige	jarige		25619		
+116-jarigen	116-jarige	jarige		25619		
+117-jarigen	117-jarige	jarige		25619		
+118-jarigen	118-jarige	jarige		25619		
+119-jarigen	119-jarige	jarige		25619		
+120-jarigen	120-jarige	jarige		25619		
+121-jarigen	121-jarige	jarige		25619		
+122-jarigen	122-jarige	jarige		25619		
+123-jarigen	123-jarige	jarige		25619		
+124-jarigen	124-jarige	jarige		25619		
 honderdjarigen	honderdjarige	jarige		25620		
 jarigen	jarige	jarige		25621		
 minderjarigen	minderjarige	jarige		25622		
@@ -77167,6 +77288,7 @@ fragrances	fragrance			74457
 framboesia's	framboesia			74458		
 frambozen	framboos			74459		
 francs	franc			74463		
+Françaisen	Français			74464		
 Françaises	Française			74464		
 franchisers	franchiser			74465		
 franciscanen	franciscaan			74466		
@@ -81166,7 +81288,7 @@ paillettes	paillette			79773
 paintballen	paintball			79774		
 pakken	pak			79776		
 Pakistanen	Pakistaan			79778		
-Pakistaans	Pakistaans			79779	
+Pakistaans	Pakistaans			79779		
 Pakistaansen	Pakistaanse			79779		
 Pakistan	Pakistan			79780		
 pakkerds	pakkerd			79782		
@@ -85768,68 +85890,68 @@ Zwollenaren	Zwollenaar			85576
 Zwolsen	Zwolse			85577		
 zzp'ers	zzp'er			85579		
 zzp-ers	zzp-er			85580		
-Andalusisch	Andalusisch		meervoud bestaat niet	
-Atjees	Atjees		meervoud bestaat niet	
-Attisch	Attisch		meervoud bestaat niet	
-Azerbeidzjaans	Azerbeidzjaans		meervoud bestaat niet	
-Berlijns	Berlijns		meervoud bestaat niet	
-Bosnisch	Bosnisch		meervoud bestaat niet	
-Brabants	Brabants		meervoud bestaat niet	
-Calabrees	Calabrees		meervoud bestaat niet	
-Cambodjaans	Cambodjaans		meervoud bestaat niet	
-Caraceens	Caraceens		meervoud bestaat niet	
-Celebisch	Celebisch		meervoud bestaat niet	
-Corsicaans	Corsicaans		meervoud bestaat niet	
-Dalmatisch	Dalmatisch		meervoud bestaat niet	
-Deens	Deens		meervoud bestaat niet	
-Ests	Ests		meervoud bestaat niet	
-Ethiopisch	Ethiopisch		meervoud bestaat niet	
-Faeröers	Faeröers		meervoud bestaat niet	
-Filipijns	Filipijns		meervoud bestaat niet	
-Flevolands	Flevolands		meervoud bestaat niet	
-Gambiaans	Gambiaans		meervoud bestaat niet	
-Grenadaans	Grenadaans		meervoud bestaat niet	
-Groenlands	Groenlands		meervoud bestaat niet	
-Guinees	Guinees		meervoud bestaat niet	
-Haïtiaans	Haïtiaans		meervoud bestaat niet	
-Iberisch	Iberisch		meervoud bestaat niet	
-Iraans	Iraans		meervoud bestaat niet	
-Jutlands	Jutlands		meervoud bestaat niet	
-Kaapverdisch	Kaapverdisch		meervoud bestaat niet	
-Keniaans	Keniaans		meervoud bestaat niet	
-Kiribatisch	Kiribatisch		meervoud bestaat niet	
-Koerdisch	Koerdisch		meervoud bestaat niet	
-Korfiotisch	Korfiotisch		meervoud bestaat niet	
-Libisch	Libisch		meervoud bestaat niet	
-Ligurisch	Ligurisch		meervoud bestaat niet	
-Lotharings	Lotharings		meervoud bestaat niet	
-Luxemburgs	Luxemburgs		meervoud bestaat niet	
-Malawisch	Malawisch		meervoud bestaat niet	
-Maldivisch	Maldivisch		meervoud bestaat niet	
-Maleisisch	Maleisisch		meervoud bestaat niet	
-Mantuaans	Mantuaans		meervoud bestaat niet	
-Marokkaans	Marokkaans		meervoud bestaat niet	
-Mauritiaans	Mauritiaans		meervoud bestaat niet	
-Moldavisch	Moldavisch		meervoud bestaat niet	
-Monegaskisch	Monegaskisch		meervoud bestaat niet	
-Mongolisch	Mongolisch		meervoud bestaat niet	
-Montenegrijns	Montenegrijns		meervoud bestaat niet	
-Nauruaans	Nauruaans		meervoud bestaat niet	
-Nigeriaans	Nigeriaans		meervoud bestaat niet	
-Picardisch	Picardisch		meervoud bestaat niet	
-Sallands	Sallands		meervoud bestaat niet	
-Samoaans	Samoaans		meervoud bestaat niet	
-Silezisch	Silezisch		meervoud bestaat niet	
-Sjanghais	Sjanghais		meervoud bestaat niet	
-Soendanees	Soendanees		meervoud bestaat niet	
-Somalisch	Somalisch		meervoud bestaat niet	
-Syrisch	Syrisch		meervoud bestaat niet	
-Tadzjieks	Tadzjieks		meervoud bestaat niet	
-Tasmaans	Tasmaans		meervoud bestaat niet	
-Thracisch	Thracisch		meervoud bestaat niet	
-Tongaans	Tongaans		meervoud bestaat niet	
-Turkmeens	Turkmeens		meervoud bestaat niet	
-Tuvaluaans	Tuvaluaans		meervoud bestaat niet	
-Umbrisch	Umbrisch		meervoud bestaat niet	
-West-Samoaans	West-Samoaans		meervoud bestaat niet	
-Zweeds	Zweeds		meervoud bestaat niet	
+Andalusisch	Andalusisch		meervoud bestaat niet			
+Atjees	Atjees		meervoud bestaat niet			
+Attisch	Attisch		meervoud bestaat niet			
+Azerbeidzjaans	Azerbeidzjaans		meervoud bestaat niet			
+Berlijns	Berlijns		meervoud bestaat niet			
+Bosnisch	Bosnisch		meervoud bestaat niet			
+Brabants	Brabants		meervoud bestaat niet			
+Calabrees	Calabrees		meervoud bestaat niet			
+Cambodjaans	Cambodjaans		meervoud bestaat niet			
+Caraceens	Caraceens		meervoud bestaat niet			
+Celebisch	Celebisch		meervoud bestaat niet			
+Corsicaans	Corsicaans		meervoud bestaat niet			
+Dalmatisch	Dalmatisch		meervoud bestaat niet			
+Deens	Deens		meervoud bestaat niet			
+Ests	Ests		meervoud bestaat niet			
+Ethiopisch	Ethiopisch		meervoud bestaat niet			
+Faeröers	Faeröers		meervoud bestaat niet			
+Filipijns	Filipijns		meervoud bestaat niet			
+Flevolands	Flevolands		meervoud bestaat niet			
+Gambiaans	Gambiaans		meervoud bestaat niet			
+Grenadaans	Grenadaans		meervoud bestaat niet			
+Groenlands	Groenlands		meervoud bestaat niet			
+Guinees	Guinees		meervoud bestaat niet			
+Haïtiaans	Haïtiaans		meervoud bestaat niet			
+Iberisch	Iberisch		meervoud bestaat niet			
+Iraans	Iraans		meervoud bestaat niet			
+Jutlands	Jutlands		meervoud bestaat niet			
+Kaapverdisch	Kaapverdisch		meervoud bestaat niet			
+Keniaans	Keniaans		meervoud bestaat niet			
+Kiribatisch	Kiribatisch		meervoud bestaat niet			
+Koerdisch	Koerdisch		meervoud bestaat niet			
+Korfiotisch	Korfiotisch		meervoud bestaat niet			
+Libisch	Libisch		meervoud bestaat niet			
+Ligurisch	Ligurisch		meervoud bestaat niet			
+Lotharings	Lotharings		meervoud bestaat niet			
+Luxemburgs	Luxemburgs		meervoud bestaat niet			
+Malawisch	Malawisch		meervoud bestaat niet			
+Maldivisch	Maldivisch		meervoud bestaat niet			
+Maleisisch	Maleisisch		meervoud bestaat niet			
+Mantuaans	Mantuaans		meervoud bestaat niet			
+Marokkaans	Marokkaans		meervoud bestaat niet			
+Mauritiaans	Mauritiaans		meervoud bestaat niet			
+Moldavisch	Moldavisch		meervoud bestaat niet			
+Monegaskisch	Monegaskisch		meervoud bestaat niet			
+Mongolisch	Mongolisch		meervoud bestaat niet			
+Montenegrijns	Montenegrijns		meervoud bestaat niet			
+Nauruaans	Nauruaans		meervoud bestaat niet			
+Nigeriaans	Nigeriaans		meervoud bestaat niet			
+Picardisch	Picardisch		meervoud bestaat niet			
+Sallands	Sallands		meervoud bestaat niet			
+Samoaans	Samoaans		meervoud bestaat niet			
+Silezisch	Silezisch		meervoud bestaat niet			
+Sjanghais	Sjanghais		meervoud bestaat niet			
+Soendanees	Soendanees		meervoud bestaat niet			
+Somalisch	Somalisch		meervoud bestaat niet			
+Syrisch	Syrisch		meervoud bestaat niet			
+Tadzjieks	Tadzjieks		meervoud bestaat niet			
+Tasmaans	Tasmaans		meervoud bestaat niet			
+Thracisch	Thracisch		meervoud bestaat niet			
+Tongaans	Tongaans		meervoud bestaat niet			
+Turkmeens	Turkmeens		meervoud bestaat niet			
+Tuvaluaans	Tuvaluaans		meervoud bestaat niet			
+Umbrisch	Umbrisch		meervoud bestaat niet			
+West-Samoaans	West-Samoaans		meervoud bestaat niet			
+Zweeds	Zweeds		meervoud bestaat niet			
