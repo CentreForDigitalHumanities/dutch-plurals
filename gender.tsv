@@ -136,6 +136,7 @@ de	Amsterdamse
 de	Anatolische
 -	Anatolië
 de	Anatoliër
+het	Andalusisch
 de	Andalusische
 -	Andalusië
 de	Andalusiër
@@ -165,6 +166,7 @@ de	Ankariotische
 de	Antarctis
 -	Antigua
 de	Antillen
+het	Antilliaans
 de	Antilliaanse
 -	Antiochië
 het	Antipodeneilanden
@@ -227,12 +229,14 @@ de	Asuncionese
 de	Atheense
 -	Athene
 de	Athener
+het	Atjees
 de	Atjeese
 de	Atjeeër
 -	Atjeh
 -	Atlético
 de	Atlético-fan
 -	Attika
+het	Attisch
 de	Attische
 de	Attiër
 -	Aukje
@@ -243,6 +247,7 @@ de	AutoWeek
 -	Auvergne
 -	Avarua
 -	Azerbeidzjaan
+het	Azerbeidzjaans
 de	Azerbeidzjaanse
 -	Azerbeidzjan
 de	Azeri
@@ -374,6 +379,7 @@ de	Bergense
 de	Bergweg-Zuid
 -	Beringzee
 de	Berlijner
+het	Berlijns
 de	Berlijnse
 -	Bermuda
 -	Bern
@@ -450,6 +456,7 @@ de	Borneose
 de	Borneoër
 -	Bosch-tas
 de	Bosjesman
+het	Bosnisch
 de	Bosnische
 -	Bosnië-Herzegovina
 de	Bosniër
@@ -469,6 +476,7 @@ de	Bpm
 de	Brabander
 -	Brabant
 -	BrabantZorg
+het	Brabants
 de	Brabantse
 -	Brasilia
 -	Braziliaans
@@ -561,6 +569,7 @@ de	CSSR
 de	CVE
 -	CVP
 het	Caicoseilanden
+de	Calabrees
 de	Calabrese
 -	Calabrië
 de	Calabriër
@@ -570,6 +579,7 @@ de	Californiër
 -	Cam
 -	Cambodja
 de	Cambodjaan
+het	Cambodjaans
 de	Cambodjaanse
 -	Cambron-Casteau
 -	Cameron
@@ -584,6 +594,7 @@ de	Canadese
 de	Captur
 -	Caracas
 de	Caraceen
+het	Caraceens
 de	Caraceense
 -	Carolien
 -	Carolinen
@@ -603,6 +614,7 @@ de	Caïrotische
 -	Cedar
 -	Celebes
 de	Celebeszee
+het	Celebisch
 de	Celebische
 de	Celebiër
 -	Celsius
@@ -667,6 +679,7 @@ het	Cornetto-ijs
 -	Corning
 -	Corsica
 de	Corsicaan
+het	Corsicaans
 de	Corsicaanse
 -	Costa
 de	Costaricaan
@@ -699,7 +712,7 @@ de	DDoS
 de	DFB-pokal
 -	DGA
 de	DIRV
-het	DLC-pakke
+het	DLC-pakket
 de	DNB
 -	DNCE
 de	DNO
@@ -713,6 +726,7 @@ de	Daesh
 -	Dafne
 -	Dakar
 de	Dakota
+het	Dalmatisch
 de	Dalmatische
 de	Dalmatië
 de	Damasceense
@@ -728,6 +742,7 @@ de	Dardanellen
 -	Dawhah
 -	Deadwood
 de	Deen
+het	Deens
 de	Deense
 de	DeepMind
 de	Defensie
@@ -915,7 +930,9 @@ het	Esperanto
 het	Estisch
 de	Estlander
 de	Estlands
+het	Ests
 de	Estse
+het	Ethiopisch
 de	Ethiopische
 -	Ethiopië
 de	Ethiopiër
@@ -972,6 +989,7 @@ de	Facebookpagina
 de	Faeröer
 de	Faeröer-eilanden
 de	Faeröerder
+het	Faeröers
 de	Faeröerse
 -	Fagne
 -	Fahrenheit
@@ -1001,6 +1019,7 @@ de	Fijiër
 -	Fijnaart
 de	Filipijnen
 de	Filipijnenzee
+het	Filipijns
 de	Filipijnse
 -	Filémon
 het	Fin
@@ -1013,6 +1032,7 @@ de	Fitbit
 -	Fleksy
 -	Fletcher
 de	Flevolander
+het	Flevolands
 de	Flevolandse
 de	Flipper-trainer
 de	FlixBus
@@ -1087,6 +1107,7 @@ de	Galiciër
 de	Galileeër
 -	Gambia
 de	Gambiaan
+het	Gambiaans
 de	Gambiaanse
 -	Gannett
 -	Garapan
@@ -1153,12 +1174,14 @@ de	Graafschap-dna
 -	Greg
 -	Grenada
 de	Grenadaan
+het	Grenadaans
 de	Grenadaanse
 de	Grexit
 het	Grieks
 de	Griekse
 -	GroenLinks
 de	Groenlander
+het	Groenlands
 de	Groenlandse
 de	Groenlandzee
 -	Groningen
@@ -1179,6 +1202,7 @@ de	Guatemalaanse
 -	Guernica
 -	Guilherme
 -	Guinee
+de	Guinees
 de	Guineese
 de	Guineeër
 de	Guinese
@@ -1237,6 +1261,7 @@ de	Havanese
 de	Hazes-fan
 -	Haïti
 de	Haïtiaan
+het	Haïtiaans
 de	Haïtiaanse
 het	Hebreeuws
 de	Hebriden
@@ -1341,6 +1366,7 @@ het	ISBN
 het	ISU-lid
 -	ITE
 het	IVVV
+het	Iberisch
 de	Iberische
 de	Iberiër
 -	Ibiza
@@ -1374,6 +1400,7 @@ de	Internationale
 -	Interpol
 de	Inuit
 de	Iraakse
+het	Iraans
 de	Iraanse
 -	Irak
 de/het	Irakees
@@ -1487,6 +1514,7 @@ de	Jordaniër
 -	Jupiter
 -	Justitia
 de	Jutlander
+het	Jutlands
 de	Jutlandse
 het	K3-jurkje
 het	K3-lid
@@ -1514,6 +1542,7 @@ het	KWF
 de	Kaaiman-eilanden
 de	Kaapstadse
 de	Kaapstatter
+het	Kaapverdisch
 de	Kaapverdische
 -	Kaapverdië
 de	Kaapverdiër
@@ -1574,6 +1603,7 @@ de	Kempenaar
 de	Kempense
 -	Kenia
 de	Keniaan
+het	Keniaans
 de	Keniaanse
 de	Kerstmis
 -	Keulen
@@ -1598,6 +1628,7 @@ het	Kirgizisch
 de	Kirgizische
 -	Kirgizië
 -	Kiribati
+het	Kiribatisch
 de	Kiribatische
 de	Kiribatiër
 -	KitKat
@@ -1606,6 +1637,7 @@ de	Kiribatiër
 de	Klaasje
 -	Kleef
 de	Koerd
+het	Koerdisch
 de	Koerdische
 -	Koerdistan
 de	Koerilen
@@ -1627,6 +1659,7 @@ de	Koreaan
 het	Koreaans
 de	Koreaanse
 de	Korfioot
+het	Korfiotisch
 de	Korfiotische
 -	Korfoe
 -	Korinthe
@@ -1729,6 +1762,7 @@ de	Libanese
 -	Liberia
 de	Liberiaan
 de	Liberiaanse
+het	Libisch
 de	Libische
 -	Libië
 de	Libiër
@@ -1738,6 +1772,7 @@ de	Libiër
 -	Liechtenstein
 de	Liechtensteiner
 de	Liechtensteinse
+het	Ligurisch
 de	Ligurische
 -	Ligurië
 de	Liguriër
@@ -1782,6 +1817,7 @@ de	Londense
 -	Lora
 -	Lotharingen
 de	Lotharinger
+het	Lotharings
 de	Lotharingse
 -	Lotto-Jumbo
 de	Lotto-Jumbo-man
@@ -1796,6 +1832,7 @@ de	Luikse
 -	Lumpur
 -	Lusaka
 -	Luther
+het	Luxemburgs
 de	Luxemburgse
 het	Luxor
 -	Lysander
@@ -1846,12 +1883,15 @@ de	Malagassische
 de	Malagassiër
 -	Malakka
 -	Malawi
+het	Malawisch
 de	Malawische
 de	Malawiër
 de	Maldiven
+het	Maldivisch
 de	Maldivische
 de	Maldiviër
 het	Maleis
+het	Maleisisch
 de	Maleisische
 -	Maleisië
 de	Maleisiër
@@ -1873,6 +1913,7 @@ de	Manilleense
 -	Manon
 -	Mantsjoerije
 -	Mantua
+het	Mantuaans
 de	Mantuaanse
 de	Mantuaner
 -	Maputo
@@ -1885,6 +1926,7 @@ de	Marianen
 de	Mariska
 de	Maritsa
 het	Markiezaat
+het	Marokkaans
 de	Marokkaanse
 -	Marokko
 de	Mars
@@ -1905,6 +1947,7 @@ de	Mauritanische
 -	Mauritanië
 de	Mauritaniër
 de	Mauritiaan
+het	Mauritiaans
 de	Mauritiaanse
 -	Mauritius
 -	Mbabane
@@ -1973,6 +2016,7 @@ de	Moermondsweg
 de	Mohawk-Indiaan
 -	Mokum
 de	Moldau
+het	Moldavisch
 de	Moldavische
 -	Moldavië
 de	Moldaviër
@@ -1981,7 +2025,9 @@ de	Molukker
 de	Molukse
 -	Monaco
 de	Monegask
+het	Monegaskisch
 de	Monegaskische
+het	Mongolisch
 de	Mongolische
 -	Mongolië
 de	Mongoliër
@@ -1992,6 +2038,7 @@ het	Mongools
 de	Monroviaan
 de	Monroviaanse
 de	Montenegrijn
+het	Montenegrijns
 de	Montenegrijnse
 -	Montenegro
 de	Montevideaan
@@ -2106,6 +2153,7 @@ de	Nationale-Nederlanden
 -	Nauplion
 -	Nauru
 de	Nauruaan
+het	Nauruaans
 de	Nauruaanse
 de	Nazareense
 de	Nazareeër
@@ -2154,6 +2202,7 @@ de	Nieuwzeelander
 -	Niger
 -	Nigeria
 de	Nigeriaan
+het	Nigeriaans
 de	Nigeriaanse
 -	Nijl
 de	Nijmeegse
@@ -2253,7 +2302,6 @@ de	Ossendrechtenaar
 -	Ossetië
 -	Ottawa
 de	Ottawaanse
-de	Ottomane
 -	Ouagadougou
 -	Oudelande
 het	Oudengels
@@ -2290,7 +2338,8 @@ het	Paduaan
 het	Paduaanse
 -	Pago
 de	Pakistaan
-het	Pakistaanse
+het	Pakistaans
+de	Pakistaanse
 -	Pakistan
 de	Palestijn
 de	Palestijnse
@@ -2362,6 +2411,7 @@ de	PhD
 -	Philips
 de	Philipsdam
 -	Phnom-Penh
+het	Picardisch
 de	Picardische
 -	Picardië
 de	Picardiër
@@ -2585,6 +2635,7 @@ de	Sakser
 het	Saksisch
 de	Saksische
 de	Sallander
+het	Sallands
 de	Sallandse
 de	Salomonseilanden
 -	Salvador
@@ -2598,6 +2649,7 @@ de	Samaritaanse
 -	Sammie
 -	Samoa
 de	Samoaan
+het	Samoaans
 de	Samoaanse
 -	Samothrake
 -	Samsom
@@ -2687,6 +2739,7 @@ het	SieboldHuis
 de	Sierraleoner
 de	Sierraleonese
 -	Sifnos
+het	Silezisch
 de	Silezische
 -	Silezië
 de	Sileziër
@@ -2708,6 +2761,7 @@ de	Sint-Petersburgse
 -	Sjaak
 -	Sjanghai
 de	Sjanghaier
+het	Sjanghais
 de	Sjanghaise
 het	Skagerrak
 -	Skiros
@@ -2728,11 +2782,13 @@ de	Slowaakse
 de	Slowakije
 de	Soedanees
 de	Soedanese
+de	Soendanees
 de	Soendanese
 -	Soerabaja
 -	Sofia
 de	Sofioot
 de	Sofiotische
+het	Somalisch
 de	Somalische
 -	Somalië
 de	Somaliër
@@ -2800,6 +2856,7 @@ de	Swazische
 de	Sylvie
 -	Syracuse
 de	Syrier
+het	Syrisch
 de	Syrische
 -	Syrië
 de	Syriër
@@ -2825,6 +2882,7 @@ de	TWW
 de	Taag
 de	Tabakswet
 de	Tadzjiek
+het	Tadzjieks
 de	Tadzjiekse
 -	Tadzjikistan
 -	Taipei
@@ -2839,6 +2897,7 @@ de	Tanzaniaanse
 de	Tarentijn
 de	Tarentijnse
 -	Tasjkent
+het	Tasmaans
 de	Tasmaanse
 -	Tasmanië
 de	Tasmaniër
@@ -2877,6 +2936,7 @@ de	Thebaanse
 -	Thimphu
 -	Thomas
 -	Thorshavn
+het	Thracisch
 de	Thracische
 -	Thracië
 de	Thraciër
@@ -2908,6 +2968,7 @@ de	Tokioër
 de	TomTom
 -	Tonga
 de	Tongaan
+het	Tongaans
 de	Tongaanse
 -	Tonkin
 het	Toppers-lid
@@ -2967,12 +3028,14 @@ de	Turk
 -	Turkestan
 -	Turkije
 de	Turkije-deal
+het	Turkmeens
 de	Turkmeense
 -	Turkmenistan
 het	Turks
 de	Turkse
 -	Tuvalu
 de	Tuvaluaan
+het	Tuvaluaans
 de	Tuvaluaanse
 het	Tweede-Kamerlid
 de	Tweeling
@@ -3014,6 +3077,7 @@ de	Ugandees
 de	Ugandese
 de	Uithof
 -	Ulaanbaatar
+het	Umbrisch
 de	Umbrische
 -	Umbrië
 de	Umbriër
@@ -3223,6 +3287,7 @@ de	Welshman
 de	Wener
 -	Werfpop
 de	Wernhouter
+het	West-Samoaans
 de	Westblaak
 -	Westerbeke
 de	Westerschelde
@@ -3333,7 +3398,9 @@ de	Zuidlijn
 de	Zvw
 het	Zwaneveldsgat
 de	Zweed
+het	Zweeds
 de	Zweedse
+de	Zwingliaan
 het	Zwinglianisme
 de	Zwitser
 de	Zwitserse
@@ -13232,6 +13299,7 @@ de	lerares
 de	lering
 de	les
 de	lesbienne
+de	lesbische
 de	lesbiënne
 de	lesbo
 de	lesdag
@@ -15790,6 +15858,7 @@ het	ossuarium
 de	osteoporose
 het	otium
 de	otter
+de	ottomane
 de	oublie
 de	oud-Vitessenaar
 de	oud-dutchbatter

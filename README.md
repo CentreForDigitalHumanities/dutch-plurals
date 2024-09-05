@@ -15,3 +15,8 @@ The machine-readable Wiktionary data from [Tatu Ylonen](https://kaikki.org/dicti
 ## Considerations for Article Usage
 
 For uncapitalized words an article can often be easily determined by a native speaker. If there is none (for example for months) it is left blank. For capitalized words there is more room for ambiguity. Rivers, lakes, seas, mountains, deserts, inhabitants, streets, squares and languages have articles. Acronyms, cars and devices also generally have them. Countries, cities, regions and brand names generally do not.
+Nominal adjectives should be recorded as adjectives
+
+## Nominal Adjectives
+
+Words which can be used as a nominal adjectives are tagged as `'ADJ'` instead of `'N'`. If they can also be used as normal nouns those tags will also be added to the output file. For example compare _"Het **Nederlands** is een Germaanse taal."_ (`N`) versus _"Dat is typisch **Nederlands**."_ (`ADJ`).
